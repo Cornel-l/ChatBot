@@ -2,7 +2,6 @@
 
 ### Description
 
-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
 This Chatbot uses ChatOpenAI model from Langchain to chat with your data and the interface uses Gradio.
 It can load PDF documents from a directory named _datasets_.
 Also it Currently uses chroma for vectorization and OpenAIEmbeddings for Embeddings.
